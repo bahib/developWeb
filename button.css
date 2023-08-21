@@ -1,0 +1,13 @@
+button {
+    color: aquamarine;
+    padding: 20px;
+    background-color: crimson;
+    font-size: 16px;
+    border: none;
+    border-radius: 33px;
+}
+
+.button-2 {
+    background: darkcyan;
+    
+}
